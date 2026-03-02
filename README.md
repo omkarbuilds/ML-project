@@ -62,6 +62,8 @@ ML-project/
 5. Evaluate model performance  
 6. Predict and classify resumes  
 
+👨‍💻 This project is part of my Machine Learning learning journey.
+
 ---
 
 ## 📈 Model Evaluation
