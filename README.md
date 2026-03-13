@@ -76,7 +76,7 @@ The Random Forest model is evaluated using standard classification metrics to en
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/codewithomkar-AI/ML-project.git
+git clone https://github.com/omkarbuilds/ML-project.git
 
 Navigate to the project directory:
 
